@@ -16,8 +16,8 @@ spring:
           #produccion
           #search-paths: config-data-prod
           #pruebas
-          #search-paths: config-data-docker
-          search-paths: config-data-dev
+          search-paths: config-data-docker
+          #search-paths: config-data-dev
       
           
 
